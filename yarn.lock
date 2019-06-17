@@ -8057,10 +8057,10 @@ recursive-readdir@2.2.2:
   dependencies:
     minimatch "3.0.4"
 
-redux-saga-monitor@0.1.6:
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/redux-saga-monitor/-/redux-saga-monitor-0.1.6.tgz#67fd87c908ed6ad4f473172523b196822a75a65d"
-  integrity sha512-enUqWPL1GO48mY6xp/HynIbFUJ+H4qB3ad3OTFa+cqSfNt9hm1dYKLT04EswBnnJ545B80hzCuFA5WXfPiBswg==
+redux-saga-monitor@0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/redux-saga-monitor/-/redux-saga-monitor-0.1.7.tgz#da7c2775f7ed1bc527c3cdb59332304605457f50"
+  integrity sha512-EC9rZYQzNOvodAGtgBZlFddWVDdly9/TKOn9I9yqJExz+SIkR+IwZJmcG00MQiLIKnzK38cbTSMyT315tzO1QA==
   dependencies:
     redux-saga "0.16.0"
 
