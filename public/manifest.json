@@ -1,15 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "manifest_version": 2,
+  "short_name": "Saga Monitor",
+  "name": "Redux Saga Monitor",
+  "author": "Johannes Klauss",
+  "version": "0.0.1",
+  "description": "Monitor and see the flow of your sagas in a graphical way.",
+  "permissions": ["debugger"],
+  "minimum_chrome_version": "10.0",
+  "devtools_page": "devtools.html"
 }
