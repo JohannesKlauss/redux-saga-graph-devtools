@@ -16,7 +16,7 @@ function createPanelIfSagaMonitorLoaded() {
 
     panelCreated = true;
 
-    chrome.devtools.panels.create('Redux Saga Monitor', '', 'index.html', function (panel) {
+    chrome.devtools.panels.create('Redux Saga', '', 'index.html', function (panel) {
       // TODO: We should probably add lifecycle callbacks to improve performance.
     });
   });
